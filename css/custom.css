@@ -1,0 +1,15 @@
+footer {
+	padding: 2em 0;
+	margin: 3em 0;
+	border-top: 1px solid #ddd;
+	color: #999;
+	text-align: center;
+}
+
+.container {
+	width: 70%;
+}
+
+#title {
+	text-align: center;
+}
